@@ -6,12 +6,12 @@ Data downloaded from Reserve Bank
 Quarterly time series of HPI from 2004 to 2019 - 60 observations
 
 Also with 7 quarterly macroeconomic variables in the same period of time, 
--the annual change of real GDP, 
--the Consumers Price Index (CPI), 
--the current account, 
--the morgage rate, 
--the employment and 
--unemployment rate. 
+- the annual change of real GDP, 
+- the Consumers Price Index (CPI), 
+- the current account, 
+- the morgage rate, 
+- the employment and 
+- unemployment rate. 
 
 Model used:
 - univariate ARIMA
