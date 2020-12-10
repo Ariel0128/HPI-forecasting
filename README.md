@@ -22,3 +22,5 @@ Model used:
 Best performance:
 - ARIMAX with 2 significant variables in linear regression model
 
+Final Report:
+https://drive.google.com/file/d/1P9_8TKISiuxBhdoyQ0Fp03wHIFuf23To/view?usp=sharing
